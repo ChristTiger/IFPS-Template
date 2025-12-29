@@ -1,0 +1,7 @@
+{
+  "name": "IFPS Le Succès - Official Website",
+  "description": "The institutional web platform for Institut de Formation Professionnelle 'Le Succès', providing professional training in Technical, Paramedical, and Management/IT sectors in Douala, Cameroon.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
